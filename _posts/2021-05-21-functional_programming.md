@@ -2,8 +2,8 @@
 title: "함수형 프로그래밍"
 tags:
   - HUFStory
-  - Project_oc
-  - Summary
+  - project_oc
+  - summary
 
 ---
 
