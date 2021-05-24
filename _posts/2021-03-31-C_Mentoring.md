@@ -1,9 +1,9 @@
 ---
 title: "C Mentoring 1주차"
-feature: /assets/img/C_Mentoring.png
 tags:
   - HUFStory
   - C_Mentoring
+excerpt: "이번 시간에는 C의 조건문과 반복문을 다뤄보겠습니다."
 ---
 
 # C Mentoring 1주차
