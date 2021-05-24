@@ -1,5 +1,6 @@
 ---
 title: "C Mentoring 1주차"
+feature: /assets/img/C_Mentoring.png
 tags:
   - HUFStory
   - C_Mentoring
