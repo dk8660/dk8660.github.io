@@ -1,17 +1,26 @@
 ---
-title: "[모각코]MongoDB & Mongoose"
+title: "[모각코]ExpressJS #6 보안 & Generator"
 tags:
-  - MongoDB
-  - Mongoose
   - ExpressJS
   - Summary
-excerpt: "MongoDB
+excerpt: "보안
 
-MongoDB는 NoSQL로 분류되는 Document 지향 데이터베이스 시스템이다. NoSQL은 "Not only SQL"의 약자로 SQL만을 사용하지 않는 데이터베이스 관리 시스템을 지칭하는 단어이다.
+보안성 향상을 위해서 Express는 다음 사항들을 권고한다.
 
-따라서 MySQL의 테이블과 같은 스키마가 고정된 구조 대신 JSON 형태의 동적 스키마형 문서를 사용한다.
+- 더 이상 사용되지 않거나 취약성이 있는 버전의 Express 사용 중지
+- TLS 사용
+- Helmet 사용
+- 쿠키를 안전하게 사용
+- 인증 체계에 대한 브루스 포트 공격 방지
+- 종속 항목이 안전한지 확인
+- 그 외의 알려져 있는 취약점 회피
+- 추가적인 고려사항
 
-MongoDB는 공식 사이트 또는 chocolatey에서 직접 설치하면 된다."
+Helmet
+
+여기서 Helmet은 보안과 관련해서 자주 발생하는 이슈들을 자동적으로 해결해주는 모듈이다.
+
+npm install --save helmet으로 설치할 수 있다."
 ---
 
 
