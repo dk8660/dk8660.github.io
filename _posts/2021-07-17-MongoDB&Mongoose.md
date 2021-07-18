@@ -1,8 +1,10 @@
 ---
-title: "[모각코]ExpressJS #6 보안 & Generator"
+title: "[모각코]MongoDB & Mongoose"
 tags:
   - ExpressJS
   - Summary
+  - MongoDB
+  - Mongoose
 excerpt: "보안
 
 보안성 향상을 위해서 Express는 다음 사항들을 권고한다.
