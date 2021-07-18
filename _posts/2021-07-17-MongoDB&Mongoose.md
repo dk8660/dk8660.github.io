@@ -9,13 +9,10 @@ excerpt: "MongoDB
 
 MongoDB는 NoSQL로 분류되는 Document 지향 데이터베이스 시스템이다. NoSQL은 "Not only SQL"의 약자로 SQL만을 사용하지 않는 데이터베이스 관리 시스템을 지칭하는 단어이다.
 
-
-
 따라서 MySQL의 테이블과 같은 스키마가 고정된 구조 대신 JSON 형태의 동적 스키마형 문서를 사용한다.
 
-
-
 MongoDB는 공식 사이트 또는 chocolatey에서 직접 설치하면 된다."
+
 ---
 
 # MongoDB
