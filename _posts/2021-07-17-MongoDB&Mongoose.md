@@ -7,7 +7,7 @@ tags:
   - Mongoose
 excerpt: "MongoDB
 
-MongoDB는 NoSQL로 분류되는 Document 지향 데이터베이스 시스템이다. NoSQL은 "Not only SQL"의 약자로 SQL만을 사용하지 않는 데이터베이스 관리 시스템을 지칭하는 단어이다.
+MongoDB는 NoSQL로 분류되는 Document 지향 데이터베이스 시스템이다. NoSQL은 Not only SQL의 약자로 SQL만을 사용하지 않는 데이터베이스 관리 시스템을 지칭하는 단어이다.
 
 
 
