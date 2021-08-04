@@ -5,7 +5,7 @@ tags:
   - Mongoose
   - ExpressJS
   - Project_oc
-excerpt: "자동 매칭 알고리즘
+excerpt: "자동 매칭 알고리즘 #1
 
 promise 방식으로 함수를 만들어 export하는 방법으로 자동 매칭 함수를 구현할 것이다.
 
