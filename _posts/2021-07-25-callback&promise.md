@@ -1,5 +1,5 @@
 ---
-title: "[모각코]프로젝트 외청 진행 사항: callback >> promise"
+title: "[모각코]프로젝트 외출 진행 사항: callback >> promise"
 tags:
   - MongoDB
   - Mongoose
